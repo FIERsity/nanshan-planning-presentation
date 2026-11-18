@@ -1,0 +1,58 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1600" height="880" viewBox="0 0 1600 880"><title>环境规划作用分析框架 V5</title><defs><marker id="a" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="6" markerHeight="6" orient="auto-start-reverse"><path d="M0 0L10 5L0 10Z" fill="#454545"/></marker></defs><rect width="1600" height="880" fill="white"/><g fill="#222" font-family="Times New Roman, Songti SC, SimSun, serif">
+<text x="800" y="52" text-anchor="middle" font-size="32" font-weight="600">环境规划作用分析框架</text>
+<text x="800" y="97" text-anchor="middle" font-size="23" font-weight="400">高质量发展  ·  高水平保护  ·  高品质生活  ·  高效能治理</text>
+<path d="M 65 123 H 1535" fill="none" stroke="#555" stroke-width="1.7"/>
+<text x="190" y="265" text-anchor="middle" font-size="26" font-weight="600">规划表达</text>
+<rect x="70" y="305" width="240" height="190" rx="8" fill="white" stroke="#555" stroke-width="1.5"/>
+<text x="190" y="350" text-anchor="middle" font-size="24" font-weight="400">理念与原则</text>
+<text x="190" y="400" text-anchor="middle" font-size="24" font-weight="400">目标与指标</text>
+<text x="190" y="450" text-anchor="middle" font-size="24" font-weight="400">实施安排</text>
+<text x="550" y="205" text-anchor="middle" font-size="26" font-weight="600">规划调控维度</text>
+<rect x="350" y="235" width="400" height="325" rx="8" fill="#fafafa" stroke="#b7b7b7" stroke-width="1.5"/>
+<path d="M 519 352 L 467 424" fill="none" stroke="#555" stroke-width="1.7" marker-end="url(#a)" marker-start="url(#a)"/>
+<path d="M 581 352 L 633 424" fill="none" stroke="#555" stroke-width="1.7" marker-end="url(#a)" marker-start="url(#a)"/>
+<path d="M 495 475 L 605 475" fill="none" stroke="#555" stroke-width="1.7" marker-end="url(#a)" marker-start="url(#a)"/>
+<circle cx="550" cy="300" r="60" fill="white" stroke="#555" stroke-width="1.5"/>
+<text x="550" y="308" text-anchor="middle" font-size="22" font-weight="600">空间组织</text>
+<circle cx="435" cy="475" r="60" fill="white" stroke="#555" stroke-width="1.5"/>
+<text x="435" y="483" text-anchor="middle" font-size="22" font-weight="600">时间统筹</text>
+<circle cx="665" cy="475" r="60" fill="white" stroke="#555" stroke-width="1.5"/>
+<text x="665" y="483" text-anchor="middle" font-size="22" font-weight="600">关系协调</text>
+<text x="1020" y="205" text-anchor="middle" font-size="26" font-weight="600">规划作用过程</text>
+<rect x="810" y="235" width="420" height="325" rx="8" fill="#fafafa" stroke="#b7b7b7" stroke-width="1.5"/>
+<rect x="835" y="270" width="370" height="140" rx="8" fill="white" stroke="#555" stroke-width="1.5"/>
+<text x="1020" y="304" text-anchor="middle" font-size="24" font-weight="600">主体条件</text>
+<text x="930" y="348" text-anchor="middle" font-size="21" font-weight="400">理念与认知</text>
+<text x="1110" y="348" text-anchor="middle" font-size="21" font-weight="400">动机与意愿</text>
+<text x="930" y="385" text-anchor="middle" font-size="21" font-weight="400">知识与能力</text>
+<text x="1110" y="385" text-anchor="middle" font-size="21" font-weight="400">权限与资源</text>
+<rect x="835" y="455" width="150" height="70" rx="8" fill="white" stroke="#555" stroke-width="1.5"/>
+<text x="910" y="498" text-anchor="middle" font-size="24" font-weight="600">行动</text>
+<rect x="1045" y="455" width="160" height="70" rx="8" fill="white" stroke="#555" stroke-width="1.5"/>
+<text x="1125" y="498" text-anchor="middle" font-size="24" font-weight="600">作用对象</text>
+<path d="M 910 410 V 455" fill="none" stroke="#555" stroke-width="1.7" marker-end="url(#a)"/>
+<path d="M 985 490 H 1045" fill="none" stroke="#555" stroke-width="1.7" marker-end="url(#a)" marker-start="url(#a)"/>
+<text x="1440" y="265" text-anchor="middle" font-size="26" font-weight="600">实施结果</text>
+<rect x="1340" y="305" width="200" height="190" rx="8" fill="white" stroke="#555" stroke-width="1.5"/>
+<text x="1440" y="350" text-anchor="middle" font-size="22" font-weight="400">任务完成情况</text>
+<text x="1440" y="400" text-anchor="middle" font-size="22" font-weight="400">环境与生态变化</text>
+<text x="1440" y="450" text-anchor="middle" font-size="22" font-weight="400">发展与生活影响</text>
+<path d="M 310 400 H 350" fill="none" stroke="#555" stroke-width="1.7"/>
+<path d="M 750 400 H 810" fill="none" stroke="#555" stroke-width="1.7" marker-end="url(#a)"/>
+<path d="M 1230 400 H 1340" fill="none" stroke="#555" stroke-width="1.7" marker-end="url(#a)"/>
+<path d="M 90 305 V 160 H 1170 V 270" fill="none" stroke="#555" stroke-width="1.7" marker-end="url(#a)"/>
+<text x="605" y="151" text-anchor="middle" font-size="18" font-weight="400">直接作用</text>
+<rect x="610" y="665" width="500" height="90" rx="8" fill="white" stroke="#555" stroke-width="1.5"/>
+<text x="860" y="702" text-anchor="middle" font-size="25" font-weight="600">监测 · 评价 · 反馈</text>
+<text x="860" y="735" text-anchor="middle" font-size="19" font-weight="400">监测结果　执行信息　公众表达</text>
+<path d="M 1440 495 V 710 H 1110" fill="none" stroke="#555" stroke-width="1.7" marker-end="url(#a)"/>
+<path d="M 860 665 V 610" fill="none" stroke="#555" stroke-width="1.7" stroke-dasharray="6 5"/>
+<path d="M 190 610 H 1020" fill="none" stroke="#555" stroke-width="1.7" stroke-dasharray="6 5"/>
+<path d="M 190 610 V 495" fill="none" stroke="#555" stroke-width="1.7" stroke-dasharray="6 5" marker-end="url(#a)"/>
+<path d="M 550 610 V 560" fill="none" stroke="#555" stroke-width="1.7" stroke-dasharray="6 5" marker-end="url(#a)"/>
+<path d="M 1020 610 V 560" fill="none" stroke="#555" stroke-width="1.7" stroke-dasharray="6 5" marker-end="url(#a)"/>
+<text x="720" y="599" text-anchor="middle" font-size="18" font-weight="400">反馈调整</text>
+<path d="M 290 495 V 795 H 860 V 755" fill="none" stroke="#555" stroke-width="1.7" marker-end="url(#a)"/>
+<text x="475" y="786" text-anchor="middle" font-size="18" font-weight="400">目标对照</text>
+<text x="800" y="838" text-anchor="middle" font-size="16" font-weight="400">V5 · 理论框架讨论稿</text>
+</g></svg>
